@@ -1,3 +1,3 @@
 # Calcular-IMC
 
-![Imagem](/img/index.jpeg)
+![Imagem](assets/img/index.jpeg)
